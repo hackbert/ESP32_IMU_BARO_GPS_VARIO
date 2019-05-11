@@ -96,5 +96,4 @@ during server data download etc.
 4. MPU9250 initialization sequence modified from https://github.com/bolderflight/MPU9250/blob/master/MPU9250.cpp
 
 ## Issues
-Preliminary, unstable, work in progress ... 
-
+Preliminary, unstable, work in progress ... !
